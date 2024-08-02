@@ -19,3 +19,4 @@ IP-CIDR,45.66.129.157/24,no-resolve
 DOMAIN-KEYWORD,zkh
 IP-CIDR,10.10.10.0/24,no-resolve
 DOMAIN-KEYWORD,aliyuncs
+DOMAIN,tjupt.org
