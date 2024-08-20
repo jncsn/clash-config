@@ -3,10 +3,31 @@
   "rules": [
     {
       "domain": [
-        "analytics.strava.com"
+        "hdtime.org",
+        "www.pttime.org",
+        "hdsky.me",
+        "zhuque.in",
+        "audiences.me",
+        "hhanclub.top",
+        "ourbits.club",
+        "hdhome.org",
+        "pt.keepfrds.com",
+        "springsunday.net",
+        "pt.btschool.club",
+        "leaves.red",
+        "pterclub.com",
+        "www.htpt.cc",
+        "totheglory.im",
+        "pt.soulvoice.club",
+        "kp.m-team.cc",
+        "ubits.club",
+        "dajiao.cyou",
+        "piggo.me"
       ],
       "domain_suffix": [
-        ""
+        "scms-us",
+        "fms-us",
+        "supos.com"
       ]
     }
   ]
