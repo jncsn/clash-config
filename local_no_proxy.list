@@ -21,3 +21,4 @@ IP-CIDR,10.10.10.0/24,no-resolve
 DOMAIN-KEYWORD,aliyuncs
 DOMAIN,tjupt.org
 DOMAIN-KEYWORD,aisee.tv
+IP-CIDR,129.150.53.96,no-resolve
