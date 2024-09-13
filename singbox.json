@@ -243,7 +243,6 @@
           ]
         }
       ],
-      "url": "https://github.com/MetaCubeX/meta-rules-dat/raw/sing/geo-lite/geosite/cn.srs",
       "interval": "10m",
       "tolerance": 50
     },
@@ -261,7 +260,6 @@
           ]
         }
       ],
-      "url": "https://github.com/MetaCubeX/meta-rules-dat/raw/sing/geo-lite/geosite/cn.srs",
       "interval": "10m",
       "tolerance": 50
     },
