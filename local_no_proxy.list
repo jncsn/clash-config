@@ -25,3 +25,4 @@ IP-CIDR,129.150.61.7/24,no-resolve
 IP-CIDR,146.56.159.10/24,no-resolve
 DOMAIN-KEYWORD,api.oxycontin.cc
 DOMAIN-KEYWORD,fgtf121
+IP-CIDR,217.142.142.149/24,no-resolve
