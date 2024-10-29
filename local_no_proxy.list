@@ -27,3 +27,4 @@ DOMAIN-KEYWORD,api.oxycontin.cc
 DOMAIN-KEYWORD,fgtf121
 IP-CIDR,217.142.142.149/24,no-resolve
 DOMAIN-KEYWORD,szkunton.com
+IP-CIDR,138.2.111.32/24,no-resolve
