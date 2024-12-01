@@ -30,4 +30,4 @@ DOMAIN-KEYWORD,szkunton.com
 IP-CIDR,138.2.111.32/24,no-resolve
 DOMAIN-KEYWORD,eiga.moi
 DOMAIN-KEYWORD,jptv.club
-IP-CIDR,103.99.178.127,no-resolve
+IP-CIDR,103.99.178.127/24,no-resolve
