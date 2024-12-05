@@ -31,3 +31,4 @@ IP-CIDR,138.2.111.32/24,no-resolve
 DOMAIN-KEYWORD,eiga.moi
 DOMAIN-KEYWORD,jptv.club
 IP-CIDR,146.56.138.78/24,no-resolve
+DOMAIN-SUFFIX,lab.xavier.eu.org
